@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+.DS_Store
+snapshots/
+snapshots_zip/
+harness/
+eval/
+results/
+tmp/
+output/
+*.zip
+*.pdf
